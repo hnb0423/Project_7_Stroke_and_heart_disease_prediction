@@ -17,4 +17,4 @@ Compute a series of plots, including pie charts, bar charts, line charts, and co
 Encode categorical variables. Utilize SMOTE resampling method to resolve the issue of imbalanced response variables in both datasets. Since there is issue of multicollinearity in heart disease dataset, I decide to apply principal component analysis (PCA)for demision reduction. Then I select important variables based on PCA components. 
 
 ## Models Construction and Evaluation:
-Apply decision tree random forest, logistic regression, and GRNN nerual network to training dataset. Plot confusion matrix and ROC curves. For stroke dataset, random forest has the highest accuracy, and for heart disease dataset, GRNN nerual network performs the best
+Apply decision tree random forest, logistic regression, and GRNN nerual network to training dataset. Plot confusion matrix and ROC curves. For stroke dataset, random forest has the highest accuracy, and for heart disease dataset, GRNN nerual network performs the best.
