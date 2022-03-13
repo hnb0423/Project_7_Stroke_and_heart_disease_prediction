@@ -4,6 +4,6 @@
 The goal of this project is to predict whether a person will be a victim of stroke or heart disease. 
 
 ## Raw Data
-Stroke Dataset: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
+Stroke Dataset: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset <br/>
 Heart Disease Dataset: https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression
 
